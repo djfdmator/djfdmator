@@ -22,7 +22,7 @@
 
 ☎️ Contact 
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF"/>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djfdmator@gmail.com)](mailto:djfdmator@gmail.com)
 
 
 <!---
