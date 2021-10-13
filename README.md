@@ -14,7 +14,7 @@
 
 <a><img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=Cplusplus&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C sharp-239120?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=Csharp&logoColor=FFFFFF"/>
 
 <br/>
 
